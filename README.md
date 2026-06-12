@@ -1,16 +1,89 @@
-## Hi there 👋
+# 👩‍💻 About Me
 
-<!--
-**aaradhana-s/aaradhana-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Business Systems student passionate about technology, business, and innovation.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and building small projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am continuously improving my skills in both technical and business domains.
+
+---
+
+# 🛠️ Skills
+
+## Programming
+- Java
+- Basic Python
+
+## Web Development
+- HTML
+- CSS
+- Spring Boot
+
+## Database
+- MySQL
+- MongoDB
+
+## Tools
+- Git & GitHub
+- VS Code
+- Eclipse
+
+## Soft Skills
+- Problem Solving
+- Communication
+- Teamwork
+
+---
+
+# 🎯 Goal
+To grow as a Product Manager by combining technology and business knowledge to build impactful real-world solutions.
+
+---
+
+# 📫 Connect with Me
+# 👩‍💻 About Me
+
+I am a Computer Science and Business Systems student passionate about technology, business, and innovation.
+
+I enjoy learning new technologies and building small projects that solve real-world problems.
+
+I am continuously improving my skills in both technical and business domains.
+
+---
+
+# 🛠️ Skills
+
+## Programming
+- Java
+- Basic Python
+
+## Web Development
+- HTML
+- CSS
+- Spring Boot (learning)
+
+## Database
+- MySQL
+- MongoDB
+
+## Tools
+- Git & GitHub
+- VS Code
+- Eclipse
+- Postman
+
+## Soft Skills
+- Problem Solving
+- Communication
+- Teamwork
+
+---
+
+# 🎯 Goal
+To grow as a Product Manager by combining technology and business knowledge to build impactful real-world solutions.
+
+---
+
+# 📫 Connect with Me
+www.linkedin.com/in/aaradhana-s
+Open to learning, collaboration, and opportunities.
